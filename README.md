@@ -1,1 +1,3 @@
 # U.S-Crime-and-Firearm-Analysis
+This project was initiated to identify the impact of firearms and unemployment on crime rate in united states. This included collecting 4 years of data from various open source websites. The data received was in a raw format. Hence, project included various tasks such as data mining, data cleaning, data merging and finally data analysis to get the desired results. 
+The final data results were visualized using Tableau (Data visualization tool). Project Report has all the information including the source of the data, actions performed and instruction on how to run the code. Python was used to manipulate data and perform required tasks.
